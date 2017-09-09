@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">Sliding Up Panel Demo</string>
+    <string name="action_hide">Hide Panel</string>
+    <string name="action_show">Show Panel</string>
+    <string name="action_anchor_enable">Enable Anchor Point</string>
+    <string name="action_anchor_disable">Disable Anchor Point</string>
+    <string name="hello">MATCHING STATUS</string>
+    <string name="follow">BUTTON</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
